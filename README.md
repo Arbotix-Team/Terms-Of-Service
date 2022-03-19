@@ -1,4 +1,4 @@
-# **[Terms of Service of Arbotix Discord Bot](https://top.gg/bot/885876809776893964)**
+# **[Terms of Service of Arbotix Discord Bot](https://top.gg/bot/769974477185744937)**
 
 
 
@@ -6,7 +6,7 @@ Here **Arbotix**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/769974477
 
 ---
 
-## **Copyright Material**
+## **Copyright Arbotix**
 
 You're **NOT** suppose to use any of the following by any means without legal permission:
 - Banner.

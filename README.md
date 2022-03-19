@@ -1,8 +1,8 @@
-# **[Terms of Service of Akito Discord Bot](https://top.gg/bot/885876809776893964)**
+# **[Terms of Service of Arbotix Discord Bot](https://top.gg/bot/885876809776893964)**
 
-![Akito Bot](https://cdn.discordapp.com/attachments/891178370442858526/891178505260396554/akito_banner.png)
 
-Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/885876809776893964)**" or "**[developer](https://github.com/EitoZX)**")
+
+Here **Arbotix**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/769974477185744937)**" or "**[developer](https://github.com/Hjgaming)**")
 
 ---
 
@@ -11,7 +11,7 @@ Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/88587680977
 You're **NOT** suppose to use any of the following by any means without legal permission:
 - Banner.
 
-Copyright Material.
+Copyright Arbotix.
 
 ---
 
@@ -24,13 +24,13 @@ Copyright Material.
 
 <!---
 
-## **Miscellaneous.**
+## **Team Arbotix**
 
 Content Here.
 -->
 
 ---
 
-*Make sure to read [Privacy Policy](https://github.com/Akito-Discord-Bot/Privacy-Policy/blob/main/README.md) too.* 
+*Make sure to read [Privacy Policy](https://github.com/Arbotix-Team/Privacy-Policy) too.* 
 
 ##### Last Update: 12th Oct, 2021.
